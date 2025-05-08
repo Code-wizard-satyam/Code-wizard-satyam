@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a first-year undergraduate student at the Indian Institute of Technology Patna, pursuing a BSc in Computer Science and Data Analytics. With a solid foundation in Python and C++, I am currently focused on backend development using JavaScript. I also have working knowledge of HTML and frontend JavaScript, enabling me to understand full-stack development workflows. I'm passionate about building scalable backend systems, writing clean code, and continuously learning through hands-on projects and collaboration.
+I am a first-year undergraduate student at the Indian Institute of Technology Patna, pursuing a BSc in Computer Science and Data Analytics. With a solid foundation in Python and C++, I am currently focused on backend development using JavaScript. I also have working knowledge of HTML and frontend JavaScript, enabling me to understand full-stack development workflows. I'm passionate about building scalable backend systems, writing clean code, and continuously learning through hands-on projects and collaboration. LOVE CODING
 
 
 ## 🌐 Socials:
