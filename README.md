@@ -1,6 +1,12 @@
 # 💫 About Me:
-I am a first-year undergraduate student at the Indian Institute of Technology Patna, pursuing a BSc in Computer Science and Data Analytics. With a solid foundation in Python and C++, I am currently focused on backend development using JavaScript. I also have working knowledge of HTML and frontend JavaScript, enabling me to understand full-stack development workflows. I'm passionate about building scalable backend systems, writing clean code, and continuously learning through hands-on projects and collaboration. LOVE CODING
 
+🎓 First-year undergraduate at IIT Patna, pursuing BSc in Computer Science and Data Analytics
+💻 Proficient in Python and currently focused on backend development with JavaScript
+🌐 Familiar with HTML and frontend JavaScript, with an understanding of full-stack development workflows
+⚛️ Currently learning React.js to enhance frontend skills and become a more versatile full-stack developer
+🚀 Passionate about building scalable backend systems and writing clean, maintainable code
+📚 Committed to continuous learning through hands-on projects and collaborative work
+❤️ LOVE CODING | Always exploring and experimenting with new technologies
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/satyamkumariitp/) 
