@@ -5,7 +5,7 @@
 <h5>Good understanding of frontend web development using HTML, CSS, and JavaScript</h5>
 <h5>Interested in problem-solving, algorithm optimization, and applying ML to real-world problems</h5>
 <h5>Driven by continuous learning, hands-on projects, and collaborative development</h5>
-<h5>LOVE CODING | Turning curiosity into code</h5>
+<h5>LOVE CODING | Turning curiosity into code.</h5>
 
 
 ## Socials:
